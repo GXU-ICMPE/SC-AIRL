@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dae5a57-0053-4b21-90ba-bebe7a35d47b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KXxX9XaZBgaNIMV21m8PWYT1pl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL\UR5-AIRL-master" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL\UR5-AIRL-master\env" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL\UR5-AIRL-master\buffers\two_panda" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL\UR5-AIRL-master\gail_airl_ppo\algo" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL\UR5-AIRL-master\result" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL\UR5-AIRL-master\result" />
+      <recent name="D:\pycharm_project\UR5-AIRL-master\result" />
+      <recent name="D:\pycharm_project\off-policy-AIRL-PPO5\logs\HalfCheetahBulletEnv-v0\airl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_expert_peg_21">
+    <configuration name="four_peg_hole_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gail-airl-ppo.pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/env/four_peg_hole_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_expert_peg_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gail-airl-ppo.pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_expert_peg_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_expert_peg_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gail-airl-ppo.pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_expert_peg_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_expert_peg_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gail-airl-ppo.pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_expert_peg_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_expert_peg_21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gail-airl-ppo.pytorch-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_expert_peg_21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_expert_peg_21" />
+        <item itemvalue="Python.train_expert_peg_11" />
+        <item itemvalue="Python.train_expert_peg_2" />
+        <item itemvalue="Python.four_peg_hole_new" />
+        <item itemvalue="Python.train_expert_peg_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dae5a57-0053-4b21-90ba-bebe7a35d47b" name="Default Changelist" comment="" />
+      <created>1674134766039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674134766039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="259" y="274" key="FileChooserDialogImpl" timestamp="1732150504523">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="259" y="274" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1732150504523" />
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1733741034280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1733741034280" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1733741034280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1733741034280" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1733741034280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1733741034280" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1733741034280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1733741034280" />
+    <state width="804" height="336" key="GridCell.Tab.1.bottom" timestamp="1733487857478">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="804" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1733487857478" />
+    <state width="804" height="336" key="GridCell.Tab.1.center" timestamp="1733487857478">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="804" height="336" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1733487857478" />
+    <state width="804" height="336" key="GridCell.Tab.1.left" timestamp="1733487857478">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="804" height="336" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1733487857478" />
+    <state width="804" height="336" key="GridCell.Tab.1.right" timestamp="1733487857478">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="804" height="336" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1733487857478" />
+    <state x="922" y="161" key="SettingsEditor" timestamp="1732063701252">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="922" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1732063701252" />
+    <state x="1120" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1733481956487">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1120" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1733481956487" />
+    <state x="212" y="107" width="685" height="732" key="dock-window-1" timestamp="1733720067619">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="212" y="107" width="685" height="732" key="dock-window-1/0.0.1920.1032@0.0.1920.1032" timestamp="1733720067619" />
+    <state x="1103" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1732062996083">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1103" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1732062996083" />
+  </component>
+</project>

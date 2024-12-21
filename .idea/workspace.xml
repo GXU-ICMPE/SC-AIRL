@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3b84ad0-7c73-47c1-a43f-bc1fc89a939c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2pyeFEqmQb3fIcnBBN4itKPsvFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UR5-AIRL-master/logs/panda_stack_sc-airl_1211" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master\logs\panda_stack_sc-airl_1211" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master\env" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master" />
+      <recent name="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master\weights" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_demo_panda">
+    <configuration name="Push_and_grasp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xiangguangyu_SC_AIRL - Copy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UR5-AIRL-master/env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UR5-AIRL-master/env/Push_and_grasp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="collect_demo_task0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xiangguangyu_SC_AIRL - Copy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UR5-AIRL-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master\collect_demo_task0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xiangguangyu_SC_AIRL - Copy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UR5-AIRL-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master\test_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_imitation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xiangguangyu_SC_AIRL - Copy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UR5-AIRL-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\pycharm_project\xiangguangyu_SC_AIRL - Copy\UR5-AIRL-master\train_imitation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_imitation_three1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xiangguangyu_SC_AIRL - Copy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UR5-AIRL-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UR5-AIRL-master/train_imitation_three1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_demo_panda" />
+        <item itemvalue="Python.Push_and_grasp" />
+        <item itemvalue="Python.train_imitation_three" />
+        <item itemvalue="Python.collect_demo_task0" />
+        <item itemvalue="Python.train_imitation_three1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3b84ad0-7c73-47c1-a43f-bc1fc89a939c" name="Default Changelist" comment="" />
+      <created>1733742636264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733742636264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1734411721325">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1734411721325" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1734517686556">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1734517686556" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1734517686556">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1734517686556" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1734517686556">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1734517686556" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1734517686556">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1734517686556" />
+    <state width="1899" height="343" key="GridCell.Tab.1.bottom" timestamp="1733979990709">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1733979990709" />
+    <state width="1899" height="343" key="GridCell.Tab.1.center" timestamp="1733979990709">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1733979990709" />
+    <state width="1899" height="343" key="GridCell.Tab.1.left" timestamp="1733979990709">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1733979990709" />
+    <state width="1899" height="343" key="GridCell.Tab.1.right" timestamp="1733979990709">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="343" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1733979990709" />
+    <state x="656" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1733973564555">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="656" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1733973564555" />
+    <state x="0" y="0" width="571" height="807" key="dock-window-1" timestamp="1733835468748">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="0" width="571" height="807" key="dock-window-1/0.0.1920.1032@0.0.1920.1032" timestamp="1733835468748" />
+    <state x="21" y="34" width="952" height="814" key="dock-window-2" timestamp="1733973196138">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="21" y="34" width="952" height="814" key="dock-window-2/0.0.1920.1032@0.0.1920.1032" timestamp="1733973196138" />
+    <state x="0" y="0" width="1117" height="787" key="dock-window-3" timestamp="1733964604909">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="0" width="1117" height="787" key="dock-window-3/0.0.1920.1032@0.0.1920.1032" timestamp="1733964604909" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1733973610889">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1733973610889" />
+  </component>
+</project>
